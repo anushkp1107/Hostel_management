@@ -14,16 +14,16 @@ FIRST DOWNLOAD
 
 5. Extract the file and copy "hostel" folder
 
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
+6. Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
 7. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
 8. Create a database with name hostel
 
-6. Import hostel.sql file(given inside the zip package in SQL file folder)
+9. Import hostel.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/hostel/
+10. Run the script http://localhost/hostel/
 
 
-Login Details for admin : admin@gmail.com/admin@123
+Login Details for admin : admin@gmail.com/admin@123; 
 Login Details for user : Olushola@gmail.com/king
